@@ -1,5 +1,5 @@
 # Some simple apps written in python include:
-## madlips
+## madlibs
 ## guess the number (user and computer)
 ## Rock Paper Scissors
 ## Hangman
